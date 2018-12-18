@@ -23,8 +23,5 @@ namespace LargestSum
             }
             return maxSum;
         }
-        static void Main(string[] args)
-        {
-        }
     }
 }

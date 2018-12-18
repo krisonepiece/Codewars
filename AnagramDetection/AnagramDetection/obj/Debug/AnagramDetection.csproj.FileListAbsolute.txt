@@ -1,0 +1,6 @@
+D:\GitHub\Codewars\AnagramDetection\AnagramDetection\obj\Debug\AnagramDetection.csproj.CoreCompileInputs.cache
+D:\GitHub\Codewars\AnagramDetection\AnagramDetection\bin\Debug\AnagramDetection.exe.config
+D:\GitHub\Codewars\AnagramDetection\AnagramDetection\bin\Debug\AnagramDetection.exe
+D:\GitHub\Codewars\AnagramDetection\AnagramDetection\bin\Debug\AnagramDetection.pdb
+D:\GitHub\Codewars\AnagramDetection\AnagramDetection\obj\Debug\AnagramDetection.exe
+D:\GitHub\Codewars\AnagramDetection\AnagramDetection\obj\Debug\AnagramDetection.pdb
