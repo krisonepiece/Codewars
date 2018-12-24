@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalsTriangle", "PascalsTriangle\PascalsTriangle.csproj", "{930FA454-FC94-41EC-8392-C99CBC1626B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalsTriangleTest", "PascalsTriangleTest\PascalsTriangleTest.csproj", "{CC162AC2-6731-4EF4-ABD0-542D505CF2CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{930FA454-FC94-41EC-8392-C99CBC1626B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930FA454-FC94-41EC-8392-C99CBC1626B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930FA454-FC94-41EC-8392-C99CBC1626B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930FA454-FC94-41EC-8392-C99CBC1626B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC162AC2-6731-4EF4-ABD0-542D505CF2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC162AC2-6731-4EF4-ABD0-542D505CF2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC162AC2-6731-4EF4-ABD0-542D505CF2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC162AC2-6731-4EF4-ABD0-542D505CF2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39EBAD71-43FD-4495-86AC-243A0834A28A}
+	EndGlobalSection
+EndGlobal
